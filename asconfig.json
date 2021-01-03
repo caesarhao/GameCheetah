@@ -31,7 +31,240 @@
 				"name": "CONFIG::developer",
 				"value": true
 			}
+		],
+		"include-file": [
+			{
+				"file": "lib/OpenSans.ttf",
+				"path": "lib/OpenSans.ttf"
+			},
+			{
+				"file": "lib/slkscr.ttf",
+				"path": "lib/slkscr.ttf"
+			},
+			{
+				"file": "lib/Icons/input-mouse.png",
+				"path": "lib/Icons/input-mouse.png"
+			},
+			{
+				"file": "lib/Icons/image-missing.png",
+				"path": "lib/Icons/image-missing.png"
+			},
+			{
+				"file": "lib/Icons/x-office-drawing-template.png",
+				"path": "lib/Icons/x-office-drawing-template.png"
+			},
+			{
+				"file": "lib/Icons/media-seek-backward.png",
+				"path": "lib/Icons/media-seek-backward.png"
+			},
+			{
+				"file": "lib/Icons/applications-system.png",
+				"path": "lib/Icons/applications-system.png"
+			},
+			{
+				"file": "lib/Icons/go-down.png",
+				"path": "lib/Icons/go-down.png"
+			},
+			{
+				"file": "lib/Icons/go-bottom.png",
+				"path": "lib/Icons/go-bottom.png"
+			},
+			{
+				"file": "lib/Icons/emblem-readonly.png",
+				"path": "lib/Icons/emblem-readonly.png"
+			},
+			{
+				"file": "lib/Icons/go-next.png",
+				"path": "lib/Icons/go-next.png"
+			},
+			{
+				"file": "lib/Icons/emblem-symbolic-link.png",
+				"path": "lib/Icons/emblem-symbolic-link.png"
+			},
+			{
+				"file": "lib/Icons/edit-undo.png",
+				"path": "lib/Icons/edit-undo.png"
+			},
+			{
+				"file": "lib/Icons/user-desktop.png",
+				"path": "lib/Icons/user-desktop.png"
+			},
+			{
+				"file": "lib/Icons/preferences-system-windows.png",
+				"path": "lib/Icons/preferences-system-windows.png"
+			},
+			{
+				"file": "lib/Icons/folder-saved-search.png",
+				"path": "lib/Icons/folder-saved-search.png"
+			},
+			{
+				"file": "lib/Icons/arrow-down.png",
+				"path": "lib/Icons/arrow-down.png"
+			},
+			{
+				"file": "lib/Icons/media-seek-forward.png",
+				"path": "lib/Icons/media-seek-forward.png"
+			},
+			{
+				"file": "lib/Icons/input-gaming.png",
+				"path": "lib/Icons/input-gaming.png"
+			},
+			{
+				"file": "lib/Icons/arrow-up.png",
+				"path": "lib/Icons/arrow-up.png"
+			},
+			{
+				"file": "lib/Icons/software-update-available.png",
+				"path": "lib/Icons/software-update-available.png"
+			},
+			{
+				"file": "lib/Icons/emblem-unreadable.png",
+				"path": "lib/Icons/emblem-unreadable.png"
+			},
+			{
+				"file": "lib/Icons/system-log-out.png",
+				"path": "lib/Icons/system-log-out.png"
+			},
+			{
+				"file": "lib/Icons/go-jump.png",
+				"path": "lib/Icons/go-jump.png"
+			},
+			{
+				"file": "lib/Icons/document-save-as.png",
+				"path": "lib/Icons/document-save-as.png"
+			},
+			{
+				"file": "lib/Icons/system-search.png",
+				"path": "lib/Icons/system-search.png"
+			},
+			{
+				"file": "lib/Icons/list-add.png",
+				"path": "lib/Icons/list-add.png"
+			},
+			{
+				"file": "lib/Icons/edit-clear.png",
+				"path": "lib/Icons/edit-clear.png"
+			},
+			{
+				"file": "lib/Icons/x-office-drawing.png",
+				"path": "lib/Icons/x-office-drawing.png"
+			},
+			{
+				"file": "lib/Icons/go-home-sm.png",
+				"path": "lib/Icons/go-home-sm.png"
+			},
+			{
+				"file": "lib/Icons/media-playback-pause.png",
+				"path": "lib/Icons/media-playback-pause.png"
+			},
+			{
+				"file": "lib/Icons/edit-redo.png",
+				"path": "lib/Icons/edit-redo.png"
+			},
+			{
+				"file": "lib/Icons/applications-graphics.png",
+				"path": "lib/Icons/applications-graphics.png"
+			},
+			{
+				"file": "lib/Icons/go-previous.png",
+				"path": "lib/Icons/go-previous.png"
+			},
+			{
+				"file": "lib/Icons/go-up.png",
+				"path": "lib/Icons/go-up.png"
+			},
+			{
+				"file": "lib/Icons/accessories-text-editor.png",
+				"path": "lib/Icons/accessories-text-editor.png"
+			},
+			{
+				"file": "lib/Icons/preferences-system.png",
+				"path": "lib/Icons/preferences-system.png"
+			},
+			{
+				"file": "lib/Icons/image-x-generic.png",
+				"path": "lib/Icons/image-x-generic.png"
+			},
+			{
+				"file": "lib/Icons/document-save.png",
+				"path": "lib/Icons/document-save.png"
+			},
+			{
+				"file": "lib/Icons/accessories-text-editor-sm.png",
+				"path": "lib/Icons/accessories-text-editor-sm.png"
+			},
+			{
+				"file": "lib/Icons/view-refresh.png",
+				"path": "lib/Icons/view-refresh.png"
+			},
+			{
+				"file": "lib/Icons/go-home.png",
+				"path": "lib/Icons/go-home.png"
+			},
+			{
+				"file": "lib/Icons/emblem-system.png",
+				"path": "lib/Icons/emblem-system.png"
+			},
+			{
+				"file": "lib/Icons/go-last.png",
+				"path": "lib/Icons/go-last.png"
+			},
+			{
+				"file": "lib/Icons/x-office-document-template.png",
+				"path": "lib/Icons/x-office-document-template.png"
+			},
+			{
+				"file": "lib/Icons/media-playback-stop.png",
+				"path": "lib/Icons/media-playback-stop.png"
+			},
+			{
+				"file": "lib/Icons/video-x-generic.png",
+				"path": "lib/Icons/video-x-generic.png"
+			},
+			{
+				"file": "lib/Icons/contact-new.png",
+				"path": "lib/Icons/contact-new.png"
+			},
+			{
+				"file": "lib/Icons/folder.png",
+				"path": "lib/Icons/folder.png"
+			},
+			{
+				"file": "lib/Icons/image-loading.png",
+				"path": "lib/Icons/image-loading.png"
+			},
+			{
+				"file": "lib/Icons/applications-office.png",
+				"path": "lib/Icons/applications-office.png"
+			},
+			{
+				"file": "lib/Icons/view-fullscreen.png",
+				"path": "lib/Icons/view-fullscreen.png"
+			},
+			{
+				"file": "lib/Icons/text-x-script.png",
+				"path": "lib/Icons/text-x-script.png"
+			},
+			{
+				"file": "lib/Icons/user-trash.png",
+				"path": "lib/Icons/user-trash.png"
+			},
+			{
+				"file": "lib/Icons/media-playback-start.png",
+				"path": "lib/Icons/media-playback-start.png"
+			},
+			{
+				"file": "lib/Icons/preferences-desktop-locale.png",
+				"path": "lib/Icons/preferences-desktop-locale.png"
+			},
+			{
+				"file": "lib/Icons/document-new.png",
+				"path": "lib/Icons/document-new.png"
+			},
+			{
+				"file": "lib/Icons/appointment-new.png",
+				"path": "lib/Icons/appointment-new.png"
+			}
 		]
 	}
-	
 }
