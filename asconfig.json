@@ -1,0 +1,37 @@
+{
+	"type": "lib",
+	"compilerOptions": {
+		"source-path": [
+			"src"
+		],
+		"include-sources": [
+			"src"
+		],
+		"output": "bin/GameCheetah.swc",
+		"default-frame-rate": 30,
+		"default-background-color": "#FFFFFF",
+		"default-size": {
+			"width": 450,
+			"height": 450
+		},
+		"target-player": "11.1",
+		"accessible": false,
+		"benchmark": false,
+		"optimize": true,
+		"omit-trace-statements": true,
+		"show-unused-type-selector-warnings": true,
+		"strict": true,
+		"use-network": true,
+		"use-resource-bundle-metadata": true,
+		"warnings": true,
+		"verbose-stacktraces": false,
+		"static-link-runtime-shared-libraries": true,
+		"define": [
+			{
+				"name": "CONFIG::developer",
+				"value": true
+			}
+		]
+	}
+	
+}
